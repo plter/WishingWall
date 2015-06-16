@@ -28,7 +28,7 @@ public class AddWishController {
 
             WishEntity wish = new WishEntity();
             wish.setName(name);
-            wish.setContent(name);
+            wish.setContent(content);
             session.save(wish);
 
             transaction.commit();
