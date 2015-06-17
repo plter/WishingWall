@@ -5,6 +5,8 @@
     <title>Document</title>
 </head>
 <body>
-
+    <%
+        response.sendRedirect(request.getContextPath());
+    %>
 </body>
 </html>
