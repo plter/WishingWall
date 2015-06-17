@@ -17,7 +17,6 @@ import java.util.List;
 @Controller
 public class MainController {
 
-
     @RequestMapping(value = "/",method = RequestMethod.GET)
     public String mainPage(ModelMap map){
 
