@@ -1,4 +1,4 @@
-<%@ page import="com.jikexueyuan.wishingwall.fornt.Point" %>
+<%@ page import="com.jikexueyuan.wishingwall.front.Point" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.List" %>
 <%@ page import="com.jikexueyuan.wishingwall.db.WishEntity" %>

@@ -1,4 +1,4 @@
-package com.jikexueyuan.wishingwall.fornt;
+package com.jikexueyuan.wishingwall.front;
 
 /**
  * Created by wwtliu on 6/17/15.
